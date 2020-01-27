@@ -1,7 +1,7 @@
 <?php
 $servername = "sql1.njit.edu";
 $username = "jhp54";
-$password = "L6mVwdPGA";
+$password = "";
 $dbname = "jhp54";
 
 // Create connection
